@@ -1,0 +1,2 @@
+# ICESat-2-water-depth-inversion-bathymetry-software-please-send-an-email-to-the-author-for-access-
+This algorithm takes the ATL03 photon point cloud product from the ICESat-2 satellite as input and achieves automatic extraction of shallow water depth through four core steps: water surface elevation calculation, adaptive filtering and denoising in the size direction, refraction correction, and seabed terrain fitting.
