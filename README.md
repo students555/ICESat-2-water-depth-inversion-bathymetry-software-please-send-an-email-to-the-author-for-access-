@@ -9,6 +9,8 @@
 
 *水面高程计算 · 尺寸/方向自适应滤波 (SDAF) · 折射改正 · 地形建模 · 机器学习水深预测*
 
+<img width="1080" height="720" alt="image" src="https://github.com/user-attachments/assets/39d4a49c-79f0-428a-b6d9-7e9a5ff79bf9" />
+
 图形界面 | 命令行 | Python API | 批处理 | Windows 一键打包
 
 </div>
