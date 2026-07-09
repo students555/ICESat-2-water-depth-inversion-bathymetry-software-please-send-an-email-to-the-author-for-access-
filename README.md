@@ -69,14 +69,12 @@
 - 🗺️ **在线卫星底图联动**:右下角 Web 底图(默认 Google 卫星,可切换),与结果图**双向联动高亮**(基于 blit 渲染,不卡顿);滚轮缩放、拖动平移,松手自动按范围重取瓦片;
 <img width="1789" height="1241" alt="屏幕截图 2026-06-20 213100" src="https://github.com/user-attachments/assets/99b365a8-727b-4f92-92d8-144f47efce2d" />
 - 📈 **实时进度与日志**:进度条 + 运行用时 + 滚动日志;
-<img width="1789" height="1241" alt="屏幕截图 2026-06-20 213100" src="https://github.com/user-attachments/assets/8b7df635-55dc-4083-8b7e-807da1ee8397" />
 - ⚡ **大数据自动抽样显示**:显示层按需抽样保证流畅,**处理与导出仍使用全量数据**;
 <img width="1799" height="1242" alt="屏幕截图 2026-06-27 222343" src="https://github.com/user-attachments/assets/97a7e94d-1b02-4740-8826-33f78e9dd987" />
 - 💾 **每步可导出**:各阶段结果图(PNG)与数据(CSV)均可单独保存。
 
 ### 数据批处理
-<img width="1799" height="1242" alt="屏幕截图 2026-06-27 222343" src="https://github.com/user-attachments/assets/ae04d26b-9dff-42aa-9a93-90555ec4f17b" />
-
+<img width="1791" height="1238" alt="屏幕截图 2026-06-27 222649" src="https://github.com/user-attachments/assets/7a07bf39-5bc2-440b-8519-b22c4494c93a" />
 - 两种模式:**多波束处理**(1 个文件 × 勾选任意波束)与**文件夹处理**(整个文件夹的所有 .h5/.csv × 所有勾选波束);
 - 后台线程运行,进度/日志实时回传,可安全中止;
 - 支持按 **经纬度范围(bbox)** 或 **Shapefile 边界** 裁剪研究区;
